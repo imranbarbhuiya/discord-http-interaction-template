@@ -1,0 +1,19 @@
+{
+	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"extends": ["github>imranbarbhuiya/dotfiles:parbez-renovate"],
+	"ignoreDeps": ["@napi-rs/canvas", "mongoose"],
+	"major": {
+		"ignoreDeps": [
+			"@mantine/core",
+			"@mantine/dropzone",
+			"@mantine/hooks",
+			"@mantine/modals",
+			"@mantine/notifications",
+			"@mantine/spotlight",
+			"@mantine/tiptap"
+		]
+	},
+	"digest": {
+		"enabled": false
+	}
+}

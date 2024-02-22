@@ -1,0 +1,19 @@
+{
+	"root": true,
+	"extends": ["mahir/common", "mahir/node", "mahir/module", "mahir/typescript"],
+	"ignorePatterns": ["dist"],
+	"parserOptions": {
+		"project": "./tsconfig.json"
+		// "EXPERIMENTAL_useProjectService": true
+	},
+	"rules": {
+		"no-console": [
+			"error",
+			{
+				"allow": ["error", "info", "warn"]
+			}
+		],
+		"unicorn/number-literal-case": "off",
+		"import/order": "off"
+	}
+}

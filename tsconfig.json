@@ -1,0 +1,33 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"allowJs": true,
+		"strict": true,
+		"noEmit": true,
+		"esModuleInterop": true,
+		"module": "Node16",
+		"noImplicitAny": true,
+		"strictNullChecks": true,
+		"noImplicitThis": true,
+		"alwaysStrict": true,
+		"noUnusedLocals": true,
+		"removeComments": true,
+		"outDir": "dist",
+		"sourceMap": true,
+		"allowUnreachableCode": false,
+		"allowUnusedLabels": false,
+		"exactOptionalPropertyTypes": false,
+		"noImplicitOverride": true,
+		"noFallthroughCasesInSwitch": true,
+		"noUnusedParameters": true,
+		"pretty": true,
+		"moduleResolution": "Node16",
+		"resolveJsonModule": true,
+		"incremental": true,
+		"skipLibCheck": true,
+		"checkJs": true
+	},
+	"include": ["**/*.ts", "**/*.tsx"],
+	"exclude": ["node_modules"]
+}
