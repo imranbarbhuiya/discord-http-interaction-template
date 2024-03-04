@@ -23,8 +23,8 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.5.3",
-		"@commitlint/cli": "^18.6.1",
-		"@commitlint/config-conventional": "^18.6.2",
+		"@commitlint/cli": "^19.0.3",
+		"@commitlint/config-conventional": "^19.0.3",
 		"eslint": "^8.57.0",
 		"eslint-config-mahir": "^0.0.43",
 		"husky": "^9.0.11",
