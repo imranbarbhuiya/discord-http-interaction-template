@@ -2055,10 +2055,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"discord-api-types@npm:^0.37.70":
-  version: 0.37.70
-  resolution: "discord-api-types@npm:0.37.70"
-  checksum: 10/b7185d2e30166111872dce89a598ab7e0cf070e742b3b97783465820fc5c6c375a718079758408cb6d6bbc0de51082039925cc80979a22d7e1288b0957ebdc62
+"discord-api-types@npm:^0.37.71":
+  version: 0.37.71
+  resolution: "discord-api-types@npm:0.37.71"
+  checksum: 10/e109e893ca9eb92f0293601930c9951fdee3bbd96c04fc614cb8495fbb95841c787ef9e346f07b1b57aa85b055b88e79eb83e6151d0d946d058287864b097f8c
   languageName: node
   linkType: hard
 
@@ -2936,9 +2936,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fastify@npm:^4.26.1":
-  version: 4.26.1
-  resolution: "fastify@npm:4.26.1"
+"fastify@npm:^4.26.2":
+  version: 4.26.2
+  resolution: "fastify@npm:4.26.2"
   dependencies:
     "@fastify/ajv-compiler": "npm:^3.5.0"
     "@fastify/error": "npm:^3.4.0"
@@ -2956,7 +2956,7 @@ __metadata:
     secure-json-parse: "npm:^2.7.0"
     semver: "npm:^7.5.4"
     toad-cache: "npm:^3.3.0"
-  checksum: 10/010cc9bd21bca5bf9653147cca49bbdbacd6c191f58c5384cdfc46fb3a94d5d43a728f97f7732ec6591141b9bb2bb2e139e885d927fc0a28f28d8b8840cb65d7
+  checksum: 10/24ee6b1496bf0c3b6b266edef6654c547ea54ffe3a17a98afd0f2a8e7a69e0fea2b58eaebb81388fa36d20032e239e656fbfdfac539b4758483a438250f791ff
   languageName: node
   linkType: hard
 
@@ -5056,11 +5056,11 @@ __metadata:
     "@commitlint/cli": "npm:^19.0.3"
     "@commitlint/config-conventional": "npm:^19.0.3"
     "@discordjs/builders": "npm:^1.7.0"
-    discord-api-types: "npm:^0.37.70"
+    discord-api-types: "npm:^0.37.71"
     discord-verify: "npm:^1.2.0"
     eslint: "npm:^8.57.0"
     eslint-config-mahir: "npm:^0.0.43"
-    fastify: "npm:^4.26.1"
+    fastify: "npm:^4.26.2"
     husky: "npm:^9.0.11"
     lint-staged: "npm:^15.2.2"
     tsup: "npm:^8.0.2"
