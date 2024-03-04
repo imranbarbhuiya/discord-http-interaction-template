@@ -17,9 +17,9 @@
 	},
 	"dependencies": {
 		"@discordjs/builders": "^1.7.0",
-		"discord-api-types": "^0.37.70",
+		"discord-api-types": "^0.37.71",
 		"discord-verify": "^1.2.0",
-		"fastify": "^4.26.1"
+		"fastify": "^4.26.2"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.5.3",
