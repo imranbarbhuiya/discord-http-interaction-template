@@ -40,18 +40,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@biomejs/biome@npm:1.6.2":
-  version: 1.6.2
-  resolution: "@biomejs/biome@npm:1.6.2"
+"@biomejs/biome@npm:1.6.3":
+  version: 1.6.3
+  resolution: "@biomejs/biome@npm:1.6.3"
   dependencies:
-    "@biomejs/cli-darwin-arm64": "npm:1.6.2"
-    "@biomejs/cli-darwin-x64": "npm:1.6.2"
-    "@biomejs/cli-linux-arm64": "npm:1.6.2"
-    "@biomejs/cli-linux-arm64-musl": "npm:1.6.2"
-    "@biomejs/cli-linux-x64": "npm:1.6.2"
-    "@biomejs/cli-linux-x64-musl": "npm:1.6.2"
-    "@biomejs/cli-win32-arm64": "npm:1.6.2"
-    "@biomejs/cli-win32-x64": "npm:1.6.2"
+    "@biomejs/cli-darwin-arm64": "npm:1.6.3"
+    "@biomejs/cli-darwin-x64": "npm:1.6.3"
+    "@biomejs/cli-linux-arm64": "npm:1.6.3"
+    "@biomejs/cli-linux-arm64-musl": "npm:1.6.3"
+    "@biomejs/cli-linux-x64": "npm:1.6.3"
+    "@biomejs/cli-linux-x64-musl": "npm:1.6.3"
+    "@biomejs/cli-win32-arm64": "npm:1.6.3"
+    "@biomejs/cli-win32-x64": "npm:1.6.3"
   dependenciesMeta:
     "@biomejs/cli-darwin-arm64":
       optional: true
@@ -71,62 +71,62 @@ __metadata:
       optional: true
   bin:
     biome: bin/biome
-  checksum: 10/6cdcab4112f5d87666f4978184d7e452e88094c32ad947443fed8afa4f015805065ac471f2bac97b4375ca41614aea26a77918605334264936b79f16aacd396e
+  checksum: 10/7e8350282ad5ae34b99afd401163eed4e7f1184fed30abb71af08f3855a0d1a792e3c384c4ae29ed6fa9d377631670c1430828e0ca5ba413ee968529ed95f148
   languageName: node
   linkType: hard
 
-"@biomejs/cli-darwin-arm64@npm:1.6.2":
-  version: 1.6.2
-  resolution: "@biomejs/cli-darwin-arm64@npm:1.6.2"
+"@biomejs/cli-darwin-arm64@npm:1.6.3":
+  version: 1.6.3
+  resolution: "@biomejs/cli-darwin-arm64@npm:1.6.3"
   conditions: os=darwin & cpu=arm64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-darwin-x64@npm:1.6.2":
-  version: 1.6.2
-  resolution: "@biomejs/cli-darwin-x64@npm:1.6.2"
+"@biomejs/cli-darwin-x64@npm:1.6.3":
+  version: 1.6.3
+  resolution: "@biomejs/cli-darwin-x64@npm:1.6.3"
   conditions: os=darwin & cpu=x64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-arm64-musl@npm:1.6.2":
-  version: 1.6.2
-  resolution: "@biomejs/cli-linux-arm64-musl@npm:1.6.2"
+"@biomejs/cli-linux-arm64-musl@npm:1.6.3":
+  version: 1.6.3
+  resolution: "@biomejs/cli-linux-arm64-musl@npm:1.6.3"
   conditions: os=linux & cpu=arm64 & libc=musl
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-arm64@npm:1.6.2":
-  version: 1.6.2
-  resolution: "@biomejs/cli-linux-arm64@npm:1.6.2"
+"@biomejs/cli-linux-arm64@npm:1.6.3":
+  version: 1.6.3
+  resolution: "@biomejs/cli-linux-arm64@npm:1.6.3"
   conditions: os=linux & cpu=arm64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-x64-musl@npm:1.6.2":
-  version: 1.6.2
-  resolution: "@biomejs/cli-linux-x64-musl@npm:1.6.2"
+"@biomejs/cli-linux-x64-musl@npm:1.6.3":
+  version: 1.6.3
+  resolution: "@biomejs/cli-linux-x64-musl@npm:1.6.3"
   conditions: os=linux & cpu=x64 & libc=musl
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-x64@npm:1.6.2":
-  version: 1.6.2
-  resolution: "@biomejs/cli-linux-x64@npm:1.6.2"
+"@biomejs/cli-linux-x64@npm:1.6.3":
+  version: 1.6.3
+  resolution: "@biomejs/cli-linux-x64@npm:1.6.3"
   conditions: os=linux & cpu=x64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@biomejs/cli-win32-arm64@npm:1.6.2":
-  version: 1.6.2
-  resolution: "@biomejs/cli-win32-arm64@npm:1.6.2"
+"@biomejs/cli-win32-arm64@npm:1.6.3":
+  version: 1.6.3
+  resolution: "@biomejs/cli-win32-arm64@npm:1.6.3"
   conditions: os=win32 & cpu=arm64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-win32-x64@npm:1.6.2":
-  version: 1.6.2
-  resolution: "@biomejs/cli-win32-x64@npm:1.6.2"
+"@biomejs/cli-win32-x64@npm:1.6.3":
+  version: 1.6.3
+  resolution: "@biomejs/cli-win32-x64@npm:1.6.3"
   conditions: os=win32 & cpu=x64
   languageName: node
   linkType: hard
@@ -2056,10 +2056,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"discord-api-types@npm:^0.37.76":
-  version: 0.37.76
-  resolution: "discord-api-types@npm:0.37.76"
-  checksum: 10/519c242a35c39fb29c895debf8485ba45aade65e079fc5f6e4969ac11593dded7e3435a0007e8f12911277ce5d61bd41a8d6bba0c72fdffda3e4e28dcf77ea33
+"discord-api-types@npm:^0.37.78":
+  version: 0.37.78
+  resolution: "discord-api-types@npm:0.37.78"
+  checksum: 10/fe3ee79ea4dc786fce272a3997df617f84804a0199b2f92616757f97e8be38e2ff5372acb7bbfafe741b37e21590cd1bc2789b46dc555935718879cef92de98f
   languageName: node
   linkType: hard
 
@@ -5053,11 +5053,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "quizx@workspace:."
   dependencies:
-    "@biomejs/biome": "npm:1.6.2"
+    "@biomejs/biome": "npm:1.6.3"
     "@commitlint/cli": "npm:^19.2.1"
     "@commitlint/config-conventional": "npm:^19.1.0"
     "@discordjs/builders": "npm:^1.7.0"
-    discord-api-types: "npm:^0.37.76"
+    discord-api-types: "npm:^0.37.78"
     discord-verify: "npm:^1.2.0"
     eslint: "npm:^8.57.0"
     eslint-config-mahir: "npm:^0.0.43"
