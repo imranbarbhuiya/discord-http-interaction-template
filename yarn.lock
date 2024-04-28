@@ -40,18 +40,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@biomejs/biome@npm:1.7.0":
-  version: 1.7.0
-  resolution: "@biomejs/biome@npm:1.7.0"
+"@biomejs/biome@npm:1.7.1":
+  version: 1.7.1
+  resolution: "@biomejs/biome@npm:1.7.1"
   dependencies:
-    "@biomejs/cli-darwin-arm64": "npm:1.7.0"
-    "@biomejs/cli-darwin-x64": "npm:1.7.0"
-    "@biomejs/cli-linux-arm64": "npm:1.7.0"
-    "@biomejs/cli-linux-arm64-musl": "npm:1.7.0"
-    "@biomejs/cli-linux-x64": "npm:1.7.0"
-    "@biomejs/cli-linux-x64-musl": "npm:1.7.0"
-    "@biomejs/cli-win32-arm64": "npm:1.7.0"
-    "@biomejs/cli-win32-x64": "npm:1.7.0"
+    "@biomejs/cli-darwin-arm64": "npm:1.7.1"
+    "@biomejs/cli-darwin-x64": "npm:1.7.1"
+    "@biomejs/cli-linux-arm64": "npm:1.7.1"
+    "@biomejs/cli-linux-arm64-musl": "npm:1.7.1"
+    "@biomejs/cli-linux-x64": "npm:1.7.1"
+    "@biomejs/cli-linux-x64-musl": "npm:1.7.1"
+    "@biomejs/cli-win32-arm64": "npm:1.7.1"
+    "@biomejs/cli-win32-x64": "npm:1.7.1"
   dependenciesMeta:
     "@biomejs/cli-darwin-arm64":
       optional: true
@@ -71,71 +71,71 @@ __metadata:
       optional: true
   bin:
     biome: bin/biome
-  checksum: 10/cf5b0bf2351686dce17ad07455a3b66af5371830e593968a58a89380f0893142a6337947239ee1b840babc753dc0542fa0a1685a5340a5512cc414f37a0e4a78
+  checksum: 10/e8aab3e9320f49088daed24970c40f6874aca139717bebf2880386c3f0f7a6e92146484f27a292d616f33194823b3729cb167fd076fba458e201f80005f9c4ea
   languageName: node
   linkType: hard
 
-"@biomejs/cli-darwin-arm64@npm:1.7.0":
-  version: 1.7.0
-  resolution: "@biomejs/cli-darwin-arm64@npm:1.7.0"
+"@biomejs/cli-darwin-arm64@npm:1.7.1":
+  version: 1.7.1
+  resolution: "@biomejs/cli-darwin-arm64@npm:1.7.1"
   conditions: os=darwin & cpu=arm64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-darwin-x64@npm:1.7.0":
-  version: 1.7.0
-  resolution: "@biomejs/cli-darwin-x64@npm:1.7.0"
+"@biomejs/cli-darwin-x64@npm:1.7.1":
+  version: 1.7.1
+  resolution: "@biomejs/cli-darwin-x64@npm:1.7.1"
   conditions: os=darwin & cpu=x64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-arm64-musl@npm:1.7.0":
-  version: 1.7.0
-  resolution: "@biomejs/cli-linux-arm64-musl@npm:1.7.0"
+"@biomejs/cli-linux-arm64-musl@npm:1.7.1":
+  version: 1.7.1
+  resolution: "@biomejs/cli-linux-arm64-musl@npm:1.7.1"
   conditions: os=linux & cpu=arm64 & libc=musl
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-arm64@npm:1.7.0":
-  version: 1.7.0
-  resolution: "@biomejs/cli-linux-arm64@npm:1.7.0"
+"@biomejs/cli-linux-arm64@npm:1.7.1":
+  version: 1.7.1
+  resolution: "@biomejs/cli-linux-arm64@npm:1.7.1"
   conditions: os=linux & cpu=arm64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-x64-musl@npm:1.7.0":
-  version: 1.7.0
-  resolution: "@biomejs/cli-linux-x64-musl@npm:1.7.0"
+"@biomejs/cli-linux-x64-musl@npm:1.7.1":
+  version: 1.7.1
+  resolution: "@biomejs/cli-linux-x64-musl@npm:1.7.1"
   conditions: os=linux & cpu=x64 & libc=musl
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-x64@npm:1.7.0":
-  version: 1.7.0
-  resolution: "@biomejs/cli-linux-x64@npm:1.7.0"
+"@biomejs/cli-linux-x64@npm:1.7.1":
+  version: 1.7.1
+  resolution: "@biomejs/cli-linux-x64@npm:1.7.1"
   conditions: os=linux & cpu=x64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@biomejs/cli-win32-arm64@npm:1.7.0":
-  version: 1.7.0
-  resolution: "@biomejs/cli-win32-arm64@npm:1.7.0"
+"@biomejs/cli-win32-arm64@npm:1.7.1":
+  version: 1.7.1
+  resolution: "@biomejs/cli-win32-arm64@npm:1.7.1"
   conditions: os=win32 & cpu=arm64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-win32-x64@npm:1.7.0":
-  version: 1.7.0
-  resolution: "@biomejs/cli-win32-x64@npm:1.7.0"
+"@biomejs/cli-win32-x64@npm:1.7.1":
+  version: 1.7.1
+  resolution: "@biomejs/cli-win32-x64@npm:1.7.1"
   conditions: os=win32 & cpu=x64
   languageName: node
   linkType: hard
 
-"@commitlint/cli@npm:^19.2.2":
-  version: 19.2.2
-  resolution: "@commitlint/cli@npm:19.2.2"
+"@commitlint/cli@npm:^19.3.0":
+  version: 19.3.0
+  resolution: "@commitlint/cli@npm:19.3.0"
   dependencies:
-    "@commitlint/format": "npm:^19.0.3"
+    "@commitlint/format": "npm:^19.3.0"
     "@commitlint/lint": "npm:^19.2.2"
     "@commitlint/load": "npm:^19.2.0"
     "@commitlint/read": "npm:^19.2.1"
@@ -144,7 +144,7 @@ __metadata:
     yargs: "npm:^17.0.0"
   bin:
     commitlint: cli.js
-  checksum: 10/bff139177aecffe809ec8665a7ffd3f9acae144ec8634b6ed93802ae9a3333bc978f69ba26dacd2bbc0e06e3dada8ca49fe49bd5316c916e626f8df8dcc03dc9
+  checksum: 10/b1565c0529b8a27ebb3313230f5ddf2f72c5dd819073b2ec141ea1547dfc4de3400a7208ae4f93b071cf8a6a2736aaeb1348c722f6e4627dc964dd0976a37810
   languageName: node
   linkType: hard
 
@@ -189,13 +189,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/format@npm:^19.0.3":
-  version: 19.0.3
-  resolution: "@commitlint/format@npm:19.0.3"
+"@commitlint/format@npm:^19.3.0":
+  version: 19.3.0
+  resolution: "@commitlint/format@npm:19.3.0"
   dependencies:
     "@commitlint/types": "npm:^19.0.3"
     chalk: "npm:^5.3.0"
-  checksum: 10/ccd71c669e43272fc7d55aba38b149ebc1fab40364ddb4182d4067210592981d42e51d2295a5c0476a34a7a296f14eaee54cc3aa246e3e5d477ed2ae5917a532
+  checksum: 10/cc0e1e0e6d5eea76b856ad1be879de166c3d1385e1ae0e1bb78c575f9b78b53d92a56cd4719427cdba9cbb9a10235768da29144da9892596525c923d126951dd
   languageName: node
   linkType: hard
 
@@ -2056,10 +2056,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"discord-api-types@npm:^0.37.80":
-  version: 0.37.80
-  resolution: "discord-api-types@npm:0.37.80"
-  checksum: 10/2656bdb99ec33437e9df048a9c8dc5d3c9bd955cdb3d9e7ce024531184c44cecc21a5fbb2c048bd74490e43360282067a23628d51277ded493654efa0a22649f
+"discord-api-types@npm:^0.37.83":
+  version: 0.37.83
+  resolution: "discord-api-types@npm:0.37.83"
+  checksum: 10/63aee8b4634f98e24921ba7ba82eab30105917d7bf40739b7fbe327a8c93134a78408d842bd7ad7cf3f45948d86db5ec0cb670d66e0fe0f8229cb15bfda5108f
   languageName: node
   linkType: hard
 
@@ -5053,11 +5053,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "quizx@workspace:."
   dependencies:
-    "@biomejs/biome": "npm:1.7.0"
-    "@commitlint/cli": "npm:^19.2.2"
+    "@biomejs/biome": "npm:1.7.1"
+    "@commitlint/cli": "npm:^19.3.0"
     "@commitlint/config-conventional": "npm:^19.2.2"
     "@discordjs/builders": "npm:^1.7.0"
-    discord-api-types: "npm:^0.37.80"
+    discord-api-types: "npm:^0.37.83"
     discord-verify: "npm:^1.2.0"
     eslint: "npm:^8.57.0"
     eslint-config-mahir: "npm:^0.0.43"
