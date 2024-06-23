@@ -30,7 +30,7 @@
 		"husky": "^9.0.11",
 		"lint-staged": "^15.2.7",
 		"tsup": "^8.1.0",
-		"typescript": "^5.4.5"
+		"typescript": "^5.5.2"
 	},
 	"commitlint": {
 		"extends": [
@@ -41,5 +41,5 @@
 		"*.{js,ts,cjs,mjs,d.cts,d.mts,jsx,tsx,json,jsonc}": "biome check --apply --no-errors-on-unmatched",
 		"{apps/**,packages/**}.{js,cjs,tsx?,mdx?}": "eslint --ext .js,.cjs,.ts,.tsx,.md,.mdx --fix"
 	},
-	"packageManager": "yarn@4.3.0"
+	"packageManager": "yarn@4.3.1"
 }
