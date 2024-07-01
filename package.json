@@ -17,12 +17,12 @@
 	},
 	"dependencies": {
 		"@discordjs/builders": "^1.8.2",
-		"discord-api-types": "^0.37.90",
+		"discord-api-types": "^0.37.91",
 		"discord-verify": "^1.2.0",
-		"fastify": "^4.28.0"
+		"fastify": "^4.28.1"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.8.2",
+		"@biomejs/biome": "1.8.3",
 		"@commitlint/cli": "^19.3.0",
 		"@commitlint/config-conventional": "^19.2.2",
 		"eslint": "^8.57.0",
@@ -30,7 +30,7 @@
 		"husky": "^9.0.11",
 		"lint-staged": "^15.2.7",
 		"tsup": "^8.1.0",
-		"typescript": "^5.5.2"
+		"typescript": "^5.5.3"
 	},
 	"commitlint": {
 		"extends": [
