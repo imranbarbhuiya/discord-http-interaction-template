@@ -26,10 +26,10 @@
 		"@commitlint/cli": "^19.3.0",
 		"@commitlint/config-conventional": "^19.2.2",
 		"eslint": "^8.57.0",
-		"eslint-config-mahir": "^0.0.43",
+		"eslint-config-mahir": "^0.0.45",
 		"husky": "^9.1.4",
-		"lint-staged": "^15.2.7",
-		"tsup": "^8.2.3",
+		"lint-staged": "^15.2.8",
+		"tsup": "^8.2.4",
 		"typescript": "^5.5.4"
 	},
 	"commitlint": {
@@ -41,5 +41,5 @@
 		"*.{js,ts,cjs,mjs,d.cts,d.mts,jsx,tsx,json,jsonc}": "biome check --apply --no-errors-on-unmatched",
 		"{apps/**,packages/**}.{js,cjs,tsx?,mdx?}": "eslint --ext .js,.cjs,.ts,.tsx,.md,.mdx --fix"
 	},
-	"packageManager": "yarn@4.3.1"
+	"packageManager": "yarn@4.4.0"
 }
