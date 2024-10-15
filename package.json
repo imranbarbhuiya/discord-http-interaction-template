@@ -17,7 +17,7 @@
 	},
 	"dependencies": {
 		"@discordjs/builders": "^1.9.0",
-		"discord-api-types": "^0.37.101",
+		"discord-api-types": "^0.37.102",
 		"discord-verify": "^1.2.0",
 		"fastify": "^4.28.1"
 	},
@@ -30,7 +30,7 @@
 		"husky": "^9.1.6",
 		"lint-staged": "^15.2.10",
 		"tsup": "^8.3.0",
-		"typescript": "^5.6.2"
+		"typescript": "^5.6.3"
 	},
 	"commitlint": {
 		"extends": [
