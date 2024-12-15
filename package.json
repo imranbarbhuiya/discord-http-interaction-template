@@ -17,9 +17,9 @@
 	},
 	"dependencies": {
 		"@discordjs/builders": "^1.9.0",
-		"discord-api-types": "^0.37.110",
+		"discord-api-types": "^0.37.111",
 		"discord-verify": "^1.2.0",
-		"fastify": "^5.1.0"
+		"fastify": "^5.2.0"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
@@ -28,7 +28,7 @@
 		"eslint": "^8.57.1",
 		"eslint-config-mahir": "^0.0.46",
 		"husky": "^9.1.7",
-		"lint-staged": "^15.2.10",
+		"lint-staged": "^15.2.11",
 		"tsup": "^8.3.5",
 		"typescript": "^5.7.2"
 	},
