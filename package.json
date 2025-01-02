@@ -17,18 +17,18 @@
 	},
 	"dependencies": {
 		"@discordjs/builders": "^1.9.0",
-		"discord-api-types": "^0.37.111",
+		"discord-api-types": "^0.37.114",
 		"discord-verify": "^1.2.0",
 		"fastify": "^5.2.0"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
-		"@commitlint/cli": "^19.6.0",
+		"@commitlint/cli": "^19.6.1",
 		"@commitlint/config-conventional": "^19.6.0",
 		"eslint": "^8.57.1",
 		"eslint-config-mahir": "^0.0.46",
 		"husky": "^9.1.7",
-		"lint-staged": "^15.2.11",
+		"lint-staged": "^15.3.0",
 		"tsup": "^8.3.5",
 		"typescript": "^5.7.2"
 	},
@@ -41,5 +41,5 @@
 		"*.{js,ts,cjs,mjs,d.cts,d.mts,jsx,tsx,json,jsonc}": "biome check --apply --no-errors-on-unmatched",
 		"{apps/**,packages/**}.{js,cjs,tsx?,mdx?}": "eslint --ext .js,.cjs,.ts,.tsx,.md,.mdx --fix"
 	},
-	"packageManager": "yarn@4.5.3"
+	"packageManager": "yarn@4.6.0"
 }
