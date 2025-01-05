@@ -3903,6 +3903,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"discord-api-types@npm:^0.37.115":
+  version: 0.37.115
+  resolution: "discord-api-types@npm:0.37.115"
+  checksum: 10/8314554175af48437c5acaa5a05a8fed4e3445e421ec7efaf182721ffe4eddd7fee6d7e9cc93e951c403032db83bfc1605105ea4f9091a08a2a477e82748d303
+  languageName: node
+  linkType: hard
+
 "discord-verify@npm:^1.2.0":
   version: 1.2.0
   resolution: "discord-verify@npm:1.2.0"
@@ -7302,7 +7309,7 @@ __metadata:
     "@commitlint/cli": "npm:^19.6.1"
     "@commitlint/config-conventional": "npm:^19.6.0"
     "@discordjs/builders": "npm:^1.10.0"
-    discord-api-types: "npm:^0.37.114"
+    discord-api-types: "npm:^0.37.115"
     discord-verify: "npm:^1.2.0"
     eslint: "npm:^8.57.1"
     eslint-config-mahir: "npm:^0.0.46"
