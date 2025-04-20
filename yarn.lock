@@ -4822,9 +4822,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fastify@npm:^5.3.0":
-  version: 5.3.0
-  resolution: "fastify@npm:5.3.0"
+"fastify@npm:^5.3.2":
+  version: 5.3.2
+  resolution: "fastify@npm:5.3.2"
   dependencies:
     "@fastify/ajv-compiler": "npm:^4.0.0"
     "@fastify/error": "npm:^4.0.0"
@@ -4841,7 +4841,7 @@ __metadata:
     secure-json-parse: "npm:^4.0.0"
     semver: "npm:^7.6.0"
     toad-cache: "npm:^3.7.0"
-  checksum: 10/efbb0f29d7e4a9ace5f5f5c71e1005b033f19e69f89ab945f43f1be0d739c93235bdf6f6c632531269648329e3b1c9564f2e59377c38399f292c0cff5b6c6a16
+  checksum: 10/afb57c5ff72196e50f23a8374bb3c7e55e272db0190f24659f3671d04d13532a7032103c7fdcdfdd7f5c111d497a05e0ad1ccdf56f61ec63d3191462d4c34aa5
   languageName: node
   linkType: hard
 
@@ -7020,7 +7020,7 @@ __metadata:
     discord-verify: "npm:^1.2.0"
     eslint: "npm:^8.57.1"
     eslint-config-mahir: "npm:^0.0.46"
-    fastify: "npm:^5.3.0"
+    fastify: "npm:^5.3.2"
     husky: "npm:^9.1.7"
     lint-staged: "npm:^15.5.1"
     tsup: "npm:^8.4.0"
